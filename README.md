@@ -4,9 +4,9 @@ I could point to the cheek I wanted to touch up on Voomi. Finding that cheek on 
 
 **[Read the nine-page illustrated guide (PDF)](./From-Tripo-Smart-UVs-to-Paintable-Textures.pdf)**
 
-![Two full-length Blender views of Voomi wearing rose goggles and holding a pink-edged sword in her gloved right hand](docs/images/voomi-finished.jpg)
+![Full-length Blender views of Voomi facing inward. The finished model wears rose goggles and holds a sword on the left. The original Tripo model stands on the right.](docs/images/voomi-finished.jpg)
 
-*Voomi after the regional texture cleanup and a later accessory-fitting pass.*
+*On the left is Voomi after we cleaned up her textures and fitted the goggles and sword. On the right is an original Tripo model from before those changes.*
 
 ## The same face on two maps
 
